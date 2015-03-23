@@ -1,0 +1,14 @@
+{
+  "name": "angular-provider",
+  "description": "A project for AngularJS to demonstrate providers",
+  "version": "0.0.0",
+  "homepage": "https://github.com/valfrom/angular-provider",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "angular": "1.4.x",
+    "angular-mocks": "1.4.x",
+    "jquery": "2.x.x",
+    "bootstrap": "3.x.x"
+  }
+}

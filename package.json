@@ -1,0 +1,13 @@
+{
+  "name": "angular-provider-test",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "./install.sh && node server.js"
+  },
+  "dependencies": {
+    "connect" : "x.x.x",
+    "serve-static" : "x.x.x",
+    "bower": "1.3.x"
+  }
+}
